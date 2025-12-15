@@ -1,5 +1,5 @@
 ---
-title: "DeepSeek-V3 논문 리뷰"
+title: "DeepSeek-V3-Paper Review"
 date: 2025-12-15
 categories: [LLM, Paper Review]
 tags: [deepseek, moe, mla, transformer, llm]
@@ -9,3 +9,5 @@ image:
 math: true
 mermaid: true
 ---
+
+## Abstract
