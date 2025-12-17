@@ -6,6 +6,10 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
+<author_id>:
+  name: 9DO1
+
+
 cotes:
   name: Cotes Chung
   twitter: cotes2020
